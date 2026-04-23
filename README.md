@@ -32,7 +32,6 @@ Aplikasi web fullstack berbasis Vue 3 (Composition API) untuk bagian front-end y
 - Bootstrap (UI)
 - Express.js (Backend API)
 - MongoDB + Mongoose
-- Kalau kamu mau, saya bisa buatkan juga versi siap tempel untuk laporan UTS (lebih formal + ada bagian arsitektur dan alur data frontend-backend).
 
 ## Screenshoot
 <img width="1276" height="933" alt="Screenshot 2026-04-23 172426" src="https://github.com/user-attachments/assets/9f47d8cb-f9c9-4ddc-a9f7-b4a7375651f7" />
